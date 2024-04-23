@@ -2,7 +2,7 @@
 
 <h2>Application Purpose</h2>
 
-<p>This console application is designed to streamline the management of work hours for team leaders and managers. It automates the retrieval of data from our HR tool QUAD, that tracks hours worked by employees. The primary aim is to assist those responsible for teams in monitoring the work hours of their direct reports. This is crucial for ensuring that team members are maintaining a healthy balance, not exceeding or falling short of the required work hours.</p>
+<p>This console application is designed to streamline the management of work hours for team leaders and managers. It automates the retrieval of data from a HR tool called QUAD, that tracks hours worked by employees. The primary aim is to assist those responsible for teams in monitoring the work hours of their direct reports. This is crucial for ensuring that team members are maintaining a healthy balance, not exceeding or falling short of the required work hours.</p>
 
 <p>The tool scrapes data related to the adaptability hours &mdash; the flexibility in work hours that employees have &mdash; for each individual who reports directly to a manager. By automating this process, the application aids in the early detection of potential issues, such as excessive overtime or insufficient work hours, which can affect team performance and individual well-being.</p>
 
